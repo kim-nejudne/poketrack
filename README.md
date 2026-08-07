@@ -1,5 +1,17 @@
 # PokéTrack
 
+> [!NOTE]
+> **This repository has moved and is archived.**
+>
+> The code now lives in **[kim-nejudne/portfolio](https://github.com/kim-nejudne/portfolio/tree/main/poketrack)**,
+> alongside the five other projects it shipped with. Development continues there;
+> this repository is read-only.
+>
+> The history here is preserved in full, but the commit SHAs differ from the ones
+> in the monorepo: merging six repositories rewrote every commit to place its files
+> under a subdirectory. This copy is the preimage, which is why it is archived
+> rather than deleted.
+
 A project tracker that turns delivery into a creature-raising game. A project
 picks a starter, tickets carry Fibonacci points, completing them awards XP, and
 XP levels the partner up until it evolves — branching where the species branches,
